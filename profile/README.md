@@ -13,7 +13,7 @@
  &nbsp; &nbsp; <a href= "https://www.linkedin.com/company/nisanci-software">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="64px" height="64px">  </a> &nbsp;
  &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="68px" height="64px"> </a> 
    
- </div> <br>
+ </div> <br> <br>
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8ca811879fe83129483af517b1692b25348a433&rid=giphy.gif&ct=g">
 
