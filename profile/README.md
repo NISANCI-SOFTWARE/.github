@@ -7,9 +7,13 @@
 &#128071; Like you're asking how can I do this? 
 
 
-<a href="https://gmail.com"> <img src="https://img.icons8.com/external-kiranshastry-gradient-kiranshastry/64/000000/external-mail-interface-kiranshastry-gradient-kiranshastry.png" width="54px" /> </a> &nbsp; &nbsp;
-<a href="https://join.slack.com/t/nisancisoftware/shared_invite/zt-10zstylap-byxDcX_062secPFe7DgeLA"><img src="https://img.icons8.com/color/48/000000/slack-new.png"/></a>
-<br>
+<div id="contact">
+ 
+ <h2> CONTACT </h2> <br>
+ &nbsp; &nbsp; <a href= "https://www.linkedin.com/company/nisanci-software">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="64px" height="64px">  </a> &nbsp;
+ &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="68px" height="64px"> </a> 
+   
+ </div> <br>
 
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8ca811879fe83129483af517b1692b25348a433&rid=giphy.gif&ct=g">
 
