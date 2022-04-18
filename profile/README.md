@@ -10,8 +10,8 @@
 <div id="contact">
  
  <h2> CONTACT </h2> <br>
- &nbsp; &nbsp; <a href= "https://www.linkedin.com/company/nisanci-software">  <img src="https://berserkon.com/images/linkedin-svg-black-and-white.png" width="64px" height="64px">  </a> &nbsp;
- &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://www.freepngimg.com/thumb/youtube/77700-icons-youtube-computer-logo-email-icon.png" width="68px" height="64px"> </a> 
+ &nbsp; &nbsp; <a href= "https://www.linkedin.com/company/nisanci-software">  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.rBOehQ3HTo7-XXiF6nVlOQHaHa%26pid%3DApi&f=1" width="72px" height="72px">  </a> &nbsp;
+ &nbsp; &nbsp;  <a href="mailto:nisancigokmen@gmail.com"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.iconfinder.com%2Fdata%2Ficons%2Fsocial-messaging-ui-color-line%2F245532%2F28-512.png&f=1&nofb=1" width="72px" height="72px"> </a> 
    
  </div> <br> <br>
 
