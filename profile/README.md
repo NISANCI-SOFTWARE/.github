@@ -15,7 +15,7 @@
    
  </div> <br> <br>
 
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8ca811879fe83129483af517b1692b25348a433&rid=giphy.gif&ct=g" width="460px" height="260px">
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611b8ca811879fe83129483af517b1692b25348a433&rid=giphy.gif&ct=g" width="360px" height="260px">
 
 <br>
 
@@ -31,7 +31,7 @@
 
 Monthly support means a lot if you plan on using the shooter software. <br> Open source doesn't pay the bills on its own. It will be with your support to continue our work. <br> Thanks . <br> <br>
 
-<img src="https://media2.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif?cid=790b7611ceae7d073eebd91e721fefe7bc0248a3c8220dad&rid=giphy.gif&ct=g" width="460px" height="260px">
+<img src="https://media2.giphy.com/media/4N1wOi78ZGzSB6H7vK/giphy.gif?cid=790b7611ceae7d073eebd91e721fefe7bc0248a3c8220dad&rid=giphy.gif&ct=g" width="360px" height="260px">
 <br>
  <h3> Click  <a href=""> here </a>  to become a Github Sponsor. &nbsp;  &#128151; </h3>
  
