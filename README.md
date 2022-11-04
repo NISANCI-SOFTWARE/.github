@@ -1,31 +1,5 @@
 # Nisanci Software - Dijital Dünyaya Açılan Kapı
 
-
-<div>
-  <img src="https://user-images.githubusercontent.com/91744618/199973663-152c9f9c-71ff-442b-9f53-4949da7ca9e7.jpg" width="420px" height="400px"/>
-</div>
-
-
- 
-<div>
-  <img src="https://user-images.githubusercontent.com/91744618/199973751-1c642b94-71a0-4c01-9769-c2a6e0ddb6cd.jpg" width="420px" height="400px"/>
-</div>
-
-
-
-<div>
-  <img src="https://user-images.githubusercontent.com/91744618/199973639-96b0f29f-f556-4344-a120-fdd864d5ab29.jpg" width="420px" height="400px"/>
-</div>
-
-
-<div>
-  <img src="https://user-images.githubusercontent.com/91744618/199973680-ee157843-8f59-4a8e-9908-9adcbe6eda86.jpg" width="420px" height="400px"/>
-</div>
-
-
-
-
- <h2> İLETİŞİM </h2> <br>
  
  <div class="contact">
   
@@ -38,7 +12,4 @@
 
  </div> 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fff&size=22&lines=Thanks+for+visiting...)](https://git.io/typing-svg)
-
-
 
