@@ -1,13 +1,6 @@
 # Nisanci Software - Dijital Dünyaya Açılan Kapı / <a href="https://nisancisoftware.com">nisancisoftware.com</a>
  
  
-![reklam3-02](https://user-images.githubusercontent.com/91744618/210401574-27066f79-6fd4-41af-afa5-9afe01cab0b7.jpg)
-
-
- ![reklam3-03](https://user-images.githubusercontent.com/91744618/210401580-eec6bee5-cd66-4557-a37b-fe1971bd941f.jpg)
- 
-
-
 
  <div class="contact">
   
