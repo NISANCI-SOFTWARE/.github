@@ -1,4 +1,4 @@
-# Nisanci Software - Dijital Dünyaya Açılan Kapı / <a href="https://nisancisoftware.com">nisancisoftware.com</a>
+# Nisanci Software - Dijital Dünyaya Açılan Kapı / <a href="https://nisancisoftware.com" target="_blank" >nisancisoftware.com</a>
  
  
 
