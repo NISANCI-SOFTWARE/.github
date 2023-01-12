@@ -2,8 +2,6 @@
  
  <div class="contact">
 
- 
-  
   <a href="nisancisoftware.com"  target="_blank"> <img src="https://img.icons8.com/bubbles/512/cloud-network.png" alt="" width="64px" height="64px"/> </a> &nbsp; &nbsp;
   <a href="https://www.instagram.com/nisancisoftware/"  target="_blank"> <img src="https://img.icons8.com/bubbles/512/instagram-new--v2.png" alt="" width="64px" height="64px"/> </a>&nbsp; &nbsp; 
   <a href="https://www.facebook.com/nisancisoftware"  target="_blank"> <img src="https://img.icons8.com/bubbles/512/facebook-new.png" alt="" width="64px" height="64px" /> </a>&nbsp; &nbsp;
